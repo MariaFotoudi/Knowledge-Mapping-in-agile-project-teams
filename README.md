@@ -4,7 +4,7 @@ Creates and explores a Knowledge Transfer Map using Sosial Network Analysis.
 model.py file is a utility module for creating and managing graph structures using the networkx library. It defines two classes (Node and Relationship) and two main functions (initgraph and initdigraph) to handle graph creation and manipulation.
 
 Input:
-nodes.csv: Contains node data with attributes like personal_unique_code, name, etc. (dataset created for this case study)
+nodes.csv: Contains node data with attributes like personal_unique_code, name, etc. (dataset created for this case study /n
 test2.csv: Contains relationship data with attributes like source, target, weight, etc. (dataset created for this case study)
 Output:
 A MultiDiGraph or DiGraph that can be used for further analysis or visualization
