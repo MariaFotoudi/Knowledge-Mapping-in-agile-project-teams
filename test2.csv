@@ -1,0 +1,171 @@
+source,target,weight,relation,communication_skills,client_business,problem_solving,operating_procedures,specifications_documents ,tools,technical_advisory,bucket
+n399,n132,4,Immediate Teammate,,YES,,,,,,tacit
+n520,n132,5,Immediate Teammate,,YES,,,YES,,,explicit
+n576,n132,5,Immediate Teammate,,,YES,,,,YES,explicit
+n434,n141,3,Colleague from another Team,YES,,YES,YES,,YES,,tacit
+n99,n144,3,Colleague from another Team,,YES,,,,,,tacit
+n736,n167,5,Immediate Teammate,YES,,YES,YES,,YES,,tacit
+n877,n199,5,Colleague from another Team,,,YES,,,,,tacit
+n471,n231,4,Immediate Teammate,YES,,YES,,,,,tacit
+n537,n231,5,Colleague from another Team,YES,,YES,,,,,tacit
+n615,n237,5,Team Leader from another Team,,YES,YES,YES,YES,YES,YES,explicit
+n399,n239,4,Team Leader,,YES,,YES,,,,tacit
+n520,n239,5,Team Leader,,,YES,,,,,tacit
+n576,n239,5,Team Leader,,YES,,,,,,tacit
+n615,n239,4,Subordinate,YES,YES,YES,YES,YES,YES,YES,Both
+n609,n250,5,Immediate Teammate,,YES,,YES,YES,YES,,explicit
+n99,n250,3,Colleague from another Team,,YES,,YES,,,,tacit
+n399,n275,4,Friend,,,,YES,,,,tacit
+n434,n316,4,Subordinate,YES,YES,,YES,,,,tacit
+n474,n316,5,Manager,YES,YES,YES,YES,YES,,,tacit
+n706,n316,5,Manager,,YES,,,,,,tacit
+n736,n316,5,Manager,YES,YES,YES,YES,,YES,YES,tacit
+n877,n316,4,Manager,,,,YES,,,,tacit
+n958,n316,5,Manager,YES,,YES,YES,,,,tacit
+n99,n349,4,Colleague from another Team,,,,,YES,YES,YES,explicit
+n615,n359,5,Manager,,YES,YES,YES,,,,tacit
+n409,n366,4,Immediate Teammate,,,YES,YES,,YES,YES,explicit
+n434,n366,5,Immediate Teammate,YES,YES,,,YES,,YES,explicit
+n456,n366,4,Immediate Teammate,,YES,YES,YES,YES,YES,,tacit
+n537,n366,5,Immediate Teammate,,,YES,,YES,,YES,explicit
+n556,n366,4,Immediate Teammate,,YES,YES,,YES,,YES,explicit
+n556,n366,5,Immediate Teammate,,YES,YES,YES,YES,YES,,tacit
+n633,n366,4,Immediate Teammate,,YES,YES,YES,YES,,,tacit
+n706,n366,5,Immediate Teammate,,YES,YES,YES,YES,YES,,tacit
+n877,n366,4,Manager,,,YES,,,,,tacit
+n913,n366,4,Colleague from another Team,,YES,YES,YES,YES,,,tacit
+n958,n366,4,Team Leader,,YES,YES,YES,YES,YES,,tacit
+n231,n368,5,Immediate Teammate,YES,YES,YES,YES,YES,YES,YES,Both
+n250,n368,5,Colleague from another Team,YES,YES,YES,YES,,,YES,tacit
+n471,n368,4,Immediate Teammate,YES,,YES,YES,,,,tacit
+n609,n368,5,Colleague from another Team,YES,YES,YES,YES,,,YES,tacit
+n239,n399,4,Team Leader,,YES,,,,,,tacit
+n275,n399,4,Friend,,YES,,YES,,,,tacit
+n520,n399,4,Immediate Teammate,,YES,,,,,,tacit
+n520,n399,5,Immediate Teammate,,YES,,,YES,,,explicit
+n576,n399,3,Immediate Teammate,,,,,,,YES,explicit
+n576,n399,5,Immediate Teammate,,,,,YES,,,explicit
+n706,n399,3,Colleague from another Team,,,,,YES,,YES,explicit
+n582,n405,4,Immediate Teammate,,YES,YES,,,,,tacit
+n99,n405,3,Team Leader from another Team,,,,,YES,,YES,explicit
+n141,n434,3,Team Leader from another Team,,YES,YES,YES,,,YES,tacit
+n366,n434,5,Team Leader,,YES,YES,,,,,tacit
+n456,n434,4,Immediate Teammate,YES,YES,,YES,YES,YES,YES,explicit
+n706,n434,5,Team Leader from another Team,,,YES,,,YES,,explicit
+n822,n434,4,Colleague from another Team,YES,,YES,,,YES,YES,explicit
+n877,n434,3,Team Leader,,,,,,,YES,explicit
+n913,n434,3,Team Leader from another Team,,YES,,YES,,,YES,tacit
+n99,n453,3,Colleague from another Team,,,,,YES,YES,YES,explicit
+n231,n471,5,Immediate Teammate,YES,YES,YES,YES,YES,YES,YES,Both
+n231,n471,4,Immediate Teammate,YES,YES,,YES,YES,,YES,tacit
+n368,n471,3,Immediate Teammate,YES,YES,,YES,YES,,,tacit
+n368,n471,4,Immediate Teammate,YES,,,,,,YES,explicit
+n693,n471,2,Colleague from another Team,,,,,YES,,YES,explicit
+n715,n471,2,Team Leader,YES,,,YES,YES,,,tacit
+n141,n474,5,Subordinate,,YES,YES,YES,YES,YES,YES,explicit
+n368,n474,4,Manager,YES,,,YES,,,,tacit
+n434,n474,4,Subordinate,YES,YES,YES,YES,,,,tacit
+n471,n474,5,Manager,YES,,,YES,,,,tacit
+n678,n474,5,Subordinate,YES,YES,YES,YES,YES,YES,YES,Both
+n715,n474,5,Subordinate,,YES,YES,YES,YES,YES,,tacit
+n877,n474,5,Immediate Teammate,,YES,YES,YES,YES,YES,YES,explicit
+n877,n474,3,Team Leader,,YES,,,,,,tacit
+n958,n474,5,Team Leader,,YES,YES,YES,YES,,,tacit
+n474,n405,5,Subordinate,,,YES,YES,YES,,YES,explicit
+n615,n405,5,Team Leader from another Team,YES,YES,,,YES,YES,YES,explicit
+n132,n520,5,Immediate Teammate,,YES,,,YES,,,explicit
+n239,n520,5,Team Leader,,YES,,,YES,,,explicit
+n399,n520,4,Immediate Teammate,,YES,,,,,,tacit
+n399,n520,5,Immediate Teammate,,YES,,,YES,,,explicit
+n576,n520,5,Immediate Teammate,,YES,,,YES,,YES,explicit
+n686,n520,5,Colleague from another Team,,YES,,,YES,,,explicit
+n537,n525,4,Friend,YES,,,YES,,YES,,tacit
+n556,n525,4,Immediate Teammate,YES,YES,YES,YES,,YES,YES,tacit
+n633,n525,4,Friend,,,YES,YES,,YES,,tacit
+n706,n525,4,Immediate Teammate,,,YES,YES,,,,tacit
+n958,n525,3,Team Leader,YES,YES,YES,YES,,,,tacit
+n618,n98,5,Team Leader,,YES,,,,,,tacit
+n231,n537,5,Colleague from another Team,YES,,YES,,,,,tacit
+n231,n537,4,Colleague from another Team,YES,,YES,,,,,tacit
+n525,n556,4,Immediate Teammate,,YES,,,,YES,,explicit
+n537,n556,4,Immediate Teammate,YES,,,YES,,,,tacit
+n132,n576,3,Immediate Teammate,YES,,,,,,,tacit
+n291,n576,3,Colleague from another Team,YES,,,,,,,tacit
+n399,n576,4,Immediate Teammate,,YES,YES,,,,,tacit
+n520,n576,4,Immediate Teammate,,,YES,,,,,tacit
+n736,n578,5,Colleague from another Team,,YES,,,,,YES,explicit
+n326,n582,4,Immediate Teammate,YES,YES,YES,YES,YES,,YES,tacit
+n405,n582,4,Colleague from another Team,,YES,YES,,,YES,YES,explicit
+n583,n582,4,Colleague from another Team,YES,YES,YES,YES,YES,YES,YES,Both
+n250,n609,3,Immediate Teammate,,,,YES,,YES,YES,explicit
+n932,n609,3,Team Leader,,,,YES,,YES,YES,explicit
+n99,n614,3,Colleague from another Team,,,,,YES,,YES,explicit
+n239,n615,5,Subordinate,YES,YES,YES,YES,YES,YES,YES,Both
+n336,n615,5,Subordinate,YES,YES,YES,,YES,,YES,tacit
+n359,n615,4,Manager,,YES,YES,YES,,,,tacit
+n644,n615,5,Subordinate,YES,YES,YES,,YES,,YES,tacit
+n974,n615,5,Subordinate,YES,YES,YES,YES,YES,YES,YES,Both
+n525,n633,4,Friend,,YES,YES,,,,YES,tacit
+n537,n633,4,Immediate Teammate,,,,,YES,,YES,explicit
+n556,n633,3,Immediate Teammate,,,,,YES,,YES,explicit
+n706,n633,4,Immediate Teammate,,,YES,,YES,,,explicit
+n736,n681,5,Team Leader,YES,,YES,YES,,,,tacit
+n399,n686,4,Colleague from another Team,,,,,YES,,,explicit
+n520,n686,5,Colleague from another Team,,YES,,,,,YES,explicit
+n471,n693,5,Colleague from another Team,,,,,YES,,YES,explicit
+n366,n706,4,Immediate Teammate,YES,YES,YES,,,YES,,tacit
+n366,n706,5,Immediate Teammate,,,YES,YES,,,YES,tacit
+n525,n706,4,Immediate Teammate,,,,,,YES,YES,explicit
+n525,n706,5,Immediate Teammate,,YES,YES,,YES,YES,YES,explicit
+n537,n706,3,Immediate Teammate,,YES,YES,YES,YES,YES,YES,explicit
+n537,n706,5,Immediate Teammate,,,YES,YES,YES,YES,YES,explicit
+n556,n706,3,Immediate Teammate,,YES,YES,YES,YES,YES,YES,explicit
+n556,n706,4,Immediate Teammate,,,YES,,YES,,YES,explicit
+n633,n706,4,Immediate Teammate,,YES,YES,,YES,,YES,explicit
+n715,n706,4,Colleague from another Team,,,,YES,,YES,,explicit
+n958,n706,4,Team Leader,,,YES,YES,,YES,YES,explicit
+n231,n715,5,Team Leader,YES,YES,YES,YES,YES,YES,YES,Both
+n368,n715,4,Team Leader,,,YES,YES,,,,tacit
+n471,n715,5,Team Leader,,YES,YES,YES,,YES,,tacit
+n474,n715,5,Colleague from another Team,,YES,YES,,YES,,,tacit
+n167,n736,3,Immediate Teammate,YES,YES,,,,,,tacit
+n578,n736,3,Colleague from another Team,,,YES,,,,,tacit
+n582,n736,4,Colleague from another Team,,YES,,,,,,tacit
+n681,n736,3,Colleague from another Team,,YES,YES,,,YES,YES,explicit
+n576,n837,5,Colleague from another Team,,YES,YES,,,,,tacit
+n366,n877,4,Manager,,YES,YES,YES,YES,,,tacit
+n368,n877,5,Manager,YES,YES,YES,YES,YES,YES,YES,Both
+n405,n877,4,Colleague from another Team,,,,YES,,,,tacit
+n434,n877,5,Subordinate,,YES,YES,YES,YES,YES,YES,explicit
+n434,n877,4,Team Leader,,YES,,,YES,,YES,explicit
+n474,n877,5,Team Leader from another Team,,,YES,YES,YES,YES,YES,explicit
+n582,n877,5,Manager,,YES,YES,YES,YES,,YES,tacit
+n706,n877,4,Manager,,YES,,YES,,,YES,tacit
+n736,n877,5,Manager,YES,YES,YES,YES,,YES,YES,tacit
+n958,n877,5,Team Leader from another Team,,,YES,,,,YES,explicit
+n609,n932,5,Team Leader,,YES,YES,YES,YES,YES,,tacit
+n132,n958,1,Subordinate,,YES,,YES,YES,,,tacit
+n239,n958,2,Team Leader from another Team,YES,YES,YES,YES,YES,YES,,tacit
+n329,n958,1,Subordinate,YES,,,YES,,,,tacit
+n366,n958,4,Team Leader,YES,,,,,,,tacit
+n366,n958,1,Subordinate,YES,,YES,YES,,YES,,tacit
+n474,n958,5,Immediate Teammate,,,YES,,YES,,YES,explicit
+n487,n958,2,Team Leader from another Team,,YES,YES,YES,,,,tacit
+n525,n958,3,Team Leader,YES,YES,,YES,,,,tacit
+n525,n958,4,Subordinate,YES,YES,YES,YES,,YES,,tacit
+n537,n958,3,Team Leader,YES,,,YES,,,,tacit
+n556,n958,3,Team Leader,,,,YES,,YES,,explicit
+n556,n958,4,Subordinate,YES,YES,YES,YES,YES,YES,,tacit
+n630,n958,1,Team Leader from another Team,,YES,YES,YES,,,,tacit
+n633,n958,3,Subordinate,YES,,,,,,,tacit
+n706,n958,2,Subordinate,YES,,,YES,,,,tacit
+n715,n958,1,Team Leader from another Team,YES,,YES,YES,,YES,,tacit
+n822,n958,4,Colleague from another Team,YES,,YES,,,,,tacit
+n99,n97,4,Team Leader,YES,,,YES,YES,,YES,explicit
+n615,n974,4,Subordinate,YES,YES,YES,YES,YES,YES,YES,Both
+n99,n98,3,Immediate Teammate,,YES,,YES,YES,,,tacit
+n405,n99,3,Team Leader from another Team,,,YES,,YES,YES,,explicit
+n94,n99,3,Immediate Teammate,,,YES,YES,,,YES,tacit
+n95,n99,3,Immediate Teammate,,,,YES,,YES,YES,explicit
+n96,n99,4,Immediate Teammate,,,,,YES,YES,YES,explicit
+n98,n99,4,Immediate Teammate,,,YES,YES,,YES,YES,explicit

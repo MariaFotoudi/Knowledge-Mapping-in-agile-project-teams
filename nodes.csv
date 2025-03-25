@@ -1,0 +1,64 @@
+﻿personal_unique_code,age_group,gender,name,time_in_company,time_in_position,distributed,awareness,training,team
+n99,25-32,Male,E1,6 months - 1.5 years,6 months - 1.5 years,YES,YES,YES,E
+n98,,,E2,,,,,,E
+n94,,,E3,,,,,,E
+n95,,,E4,,,,,,E
+n96,,,E5,,,,,,E
+n97,,,E-TL,,,,,,E
+n474,40-50,Male,M1,5 years - 10 years,1.5 years - 5 years,YES,YES,YES,L
+n877,40-50,Male,M2,10+ years,1.5 years - 5 years,YES,YES,NO,L
+n336,,,O-BA1,,,,,,OBA
+n329,,,O-E1,,,,,,OE
+n715,,,S2T-TL,,,,,,S2T
+n199,,,O-E3,,,,,,OE
+n237,,,O-TL1,,,,,,OL
+n614,,,O-TL2,,,,,,OL
+n316,,,PM,,,,,,L
+n409,,,S1P-BA1,,,,,,S1P
+n291,,,S1P-BA2,,,,,,S1P
+n456,,,S1P-BA3,,,,,,S1P
+n434,33-40,Male,S1P-TL,up to 6 months,up to 6 months,YES,YES,NO,S1P
+n275,,,S1S-BA1,,,,,,S1S
+n405,,,S1S-BA2,,,,,,S1S
+n678,,,S1S-BA3,,,,,,S1S
+n578,,,O-BA4,,,,,,OBA
+n615,33-40,Male,S1S-TL,5 years - 10 years,6 months - 1.5 years,YES,YES,NO,S1S
+n525,25-32,Male,S1T-BA1,1.5 years - 5 years,1.5 years - 5 years,YES,YES,NO,S1T
+n556,25-32,Female,S1T-BA2,up to 6 months,up to 6 months,YES,YES,NO,S1T
+n537,18-24,Female,S1T-BA3,up to 6 months,up to 6 months,YES,YES,NO,S1T
+n633,25-32,Male,S1T-BA4,1.5 years - 5 years,1.5 years - 5 years,YES,YES,NO,S1T
+n706,25-32,Male,S1T-BA5,6 months - 1.5 years,6 months - 1.5 years,YES,YES,YES,S1T
+n366,25-32,Male,S1TP-BA6,1.5 years - 5 years,1.5 years - 5 years,YES,YES,YES,S1P
+n958,33-40,Male,S1TP-TL,1.5 years - 5 years,1.5 years - 5 years,YES,YES,YES,S1T
+n583,,,O-BA3,,,,,,OBA
+n630,,,O-BA2,,,,,,OBA
+n686,,,O-BA5,,,,,,OBA
+n453,,,O-TL3,,,,,,OL
+n231,18-24,Male,S2T-BA1,up to 6 months,up to 6 months,YES,YES,YES,S2T
+n368,18-24,Male,S2T-BA2,6 months - 1.5 years,6 months - 1.5 years,NO,YES,YES,S2T
+n471,18-24,Female,S2T-BA3,6 months - 1.5 years,6 months - 1.5 years,NO,YES,NO,S2T
+n141,,,S2T-BA4,,,,,,S2T
+n644,,,S1S-BA,,,,,,S1S
+n144,,,S3-BA1,,,,,,S3
+n349,,,S3-BA11,,,,,,S3
+n326,,,S3-BA12,,,,,,S3
+n167,,,S3-BA2,,,,,,S3
+n250,,,S3-BA3,,,,,,S3
+n359,,,O-BA6,,,,,,OBA
+n618,33-40,Female,E6,5 years - 10 years,5 years - 10 years,NO,YES,YES,E
+n582,25-32,Female,S3-BA6,1.5 years - 5 years,6 months - 1.5 years,NO,YES,YES,S3
+n609,25-32,Male,S3-BA7,6 months - 1.5 years,6 months - 1.5 years,YES,YES,YES,S3
+n736,33-40,Male,S3-BA8,6 months - 1.5 years,6 months - 1.5 years,YES,YES,YES,S3
+n837,,,S3-BA9,,,,,,S3
+n487,,,O-TL4,,,,,,OL
+n932,,,O-TL5,,,,,,OL
+n399,18-24,Female,SD1,6 months - 1.5 years,6 months - 1.5 years,YES,NO,NO,SD
+n520,25-32,Male,SD2,6 months - 1.5 years,6 months - 1.5 years,YES,NO,NO,SD
+n576,25-32,Male,SD3,1.5 years - 5 years,6 months - 1.5 years,NO,YES,NO,SD
+n974,,,S1S-BA,,,,,,S1S
+n132,,,SD4,,,,,,SD
+n913,,,SD5,,,,,,SD
+n239,,,SD-TL,,,,,,SD
+n681,,,SM1,,,,,,SM
+n693,,,SM2,,,,,,SM
+n822,,,SM3,,,,,,SM
